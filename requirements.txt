@@ -1,0 +1,6 @@
+pandas>=2.1
+numpy>=1.26
+SQLAlchemy>=1.4,<2.1
+psycopg2-binary>=2.9
+pyarrow>=14
+pytest>=8
